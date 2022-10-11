@@ -1,0 +1,11 @@
+1.A. W jakim celu używa się klas abstrakcyjnych, a w jakim interfejsów?
+
+    Klas Abstrakcyjny jest używany w celu jak chcemy się podzilic kodem mędzy klasami które są dziedziczone
+     i można powiedzieć że są twarde zwązane pomedzy soba.
+
+     Interfejs podchodzi nam jak chcemy unikac twardej ierarchii i chemy dodać jakieś nowe zochowania klasu
+
+1.B. Czym różni się tablica od listy liniowej?
+
+    tablica ma długość nie zmienną długość
+    lit - długość zmiennagit
